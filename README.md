@@ -1,0 +1,2 @@
+# TRF_Task1
+Write algorithm for a. Infix expression to prefix. b. Infix expression to postfix. c. Write code for balance bracket. 2. Given “n” ropes of different lengths, connect them into a single rope with  minimum cost. Assume that the cost to connect two ropes is the same as the  sum of their lengths.  (Hint: Use Priority Queue) 3. Implement binary search tree         TASK – 1.2   Construction of gates using NAND and NOR              
